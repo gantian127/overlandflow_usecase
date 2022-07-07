@@ -1,0 +1,17 @@
+name: overland_flow
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - landlab>=2.4.1
+  - pymt>=1.3.1
+  - pymt_topography
+  - numpy
+  - xarray
+  - imageio>=2.19.1
+  - matplotlib
+  - jupyter
+  - pip
+  - pip:
+    - imageio_ffmpeg
+
