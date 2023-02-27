@@ -6,16 +6,4 @@ Overland flow, particularly the infiltration-excess mechanism, is affected by th
 If you have any suggestion to improve this notebook, please create a github issue 
 [here](https://github.com/gantian127/overlandflow_usecase/issues).
 
-<!--
-**Run Notebook**
-
-You can test and run this Jupyter Notebook through 
-[HydroShare](https://www.hydroshare.org/resource/bcbcfe823cc4432f8ce96c3048d4591f/) or on your local PC.
-
-**Suggested Citation**
-
-Gan, T., Tucker, G. E., Overeem, I. (2022). Data Component Use Case for Overland Flow Simulation, HydroShare, https://www.hydroshare.org/resource/bcbcfe823cc4432f8ce96c3048d4591f/
-
--->
-
-
+**Suggested Citation**: Gan, T., Tucker, G. E., Overeem, I. (2023). Data Component Use Case for Overland Flow Simulation, HydroShare, https://www.hydroshare.org/resource/bcbcfe823cc4432f8ce96c3048d4591f/
