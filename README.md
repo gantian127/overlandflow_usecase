@@ -2,7 +2,7 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gantian127/overlandflow_usecase/blob/master/LICENSE.txt)
 
 This repository includes a [Jupyter Notebook](overland_flow.ipynb) which demonstrates how to use 
-the [CSDMS data component](https://csdms.colorado.edu/wiki/DataComponents) to download the topography dataset 
+the [CSDMS Data Component](https://csdms.colorado.edu/wiki/DataComponents) to download the topography dataset 
 and use the [Landlab](https://landlab.readthedocs.io/en/master/) components 
 to delineate the watershed and simulate the overland flow for a study area in the Boulder County.
 
