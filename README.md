@@ -7,7 +7,7 @@ and use the [Landlab](https://landlab.readthedocs.io/en/master/) components
 to delineate the watershed and simulate the overland flow for a study area in the Boulder County.
 
 This Jupyter Notebook is part of the work for a research paper
-"CSDMS Data Components: data-model integration tools for Earth surface processes modeling".
+["CSDMS Data Components: data-model integration tools for Earth surface processes modeling"](https://doi.org/10.5194/gmd-2023-127).
 
 ### Notebook Citation
 Gan, T., Tucker, G. E., Overeem, I. (2023). Data Component Use Case for Overland Flow Simulation, HydroShare, 
