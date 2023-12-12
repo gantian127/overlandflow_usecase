@@ -11,7 +11,7 @@ This Jupyter Notebook is part of the work for a research paper
 
 ### Notebook Citation
 Gan, T., Tucker, G. E., Overeem, I. (2023). Data Component Use Case for Overland Flow Simulation, HydroShare, 
-https://www.hydroshare.org/resource/bcbcfe823cc4432f8ce96c3048d4591f/
+https://doi.org/10.4211/hs.bcbcfe823cc4432f8ce96c3048d4591f
 
 
 ### Run the Notebook
